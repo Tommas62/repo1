@@ -1,2 +1,2 @@
-# repo1 20:05 for tommas62 in repo1
+# repo1 20:15
 для изучения работы РОС
